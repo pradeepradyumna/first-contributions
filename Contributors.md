@@ -78,6 +78,7 @@
 - [Aaron Fang](https://github.com/ajfang)
 - [Halee Pagel](https://github.com/haleepagel)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
+- [Pradeep]
 - [trysh](https://github.com/trysh)
 - [Dean Huynh](https://github.com/deanhuynh)
 - [Aryaman Parekh](https://github.com/aparekh5)
